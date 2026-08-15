@@ -7,4 +7,4 @@ User-agent: Google-Extended
 Allow: /
 User-agent: Bingbot
 Allow: /
-Sitemap: https://weiqi-kids.github.io/aeiou-pages-zh-cn/sitemap.xml
+Sitemap: https://cn.aeiou.now/sitemap.xml
