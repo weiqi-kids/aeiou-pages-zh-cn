@@ -1,0 +1,206 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//aeiou.now//Annual holiday calendar//EN
+CALSCALE:GREGORIAN
+X-WR-CALNAME:台湾 2027
+BEGIN:VEVENT
+UID:holiday-tw-2027-founding-day@aeiou.now
+DTSTAMP:20270101T000000Z
+DTSTART;VALUE=DATE:20270101
+DTEND;VALUE=DATE:20270102
+SUMMARY:中华民国开国纪念日
+DESCRIPTION:Status: statutory\nDate status: confirmed\nSources: https://law.moj.gov.tw/LawClass/LawAll.aspx?pcode=D0020095 https://www.dgpa.gov.tw/information?uid=2&pid=12574 https://www.dgpa.gov.tw/information?uid=82&pid=12983
+END:VEVENT
+BEGIN:VEVENT
+UID:holiday-tw-2027-firefighters-day@aeiou.now
+DTSTAMP:20270119T000000Z
+DTSTART;VALUE=DATE:20270119
+DTEND;VALUE=DATE:20270120
+SUMMARY:消防节
+DESCRIPTION:Status: discretionary\nDate status: confirmed\nSources: https://law.moj.gov.tw/LawClass/LawAll.aspx?pcode=D0020095
+END:VEVENT
+BEGIN:VEVENT
+UID:holiday-tw-2027-lunar-new-years-eve-eve@aeiou.now
+DTSTAMP:20270204T000000Z
+DTSTART;VALUE=DATE:20270204
+DTEND;VALUE=DATE:20270205
+SUMMARY:除夕前一日（小年夜）
+DESCRIPTION:Status: statutory\nDate status: confirmed\nSources: https://law.moj.gov.tw/LawClass/LawAll.aspx?pcode=D0020095 https://www.dgpa.gov.tw/information?uid=2&pid=12574 https://www.dgpa.gov.tw/information?uid=82&pid=12983 https://www.cwa.gov.tw/Data/astronomy/2028cal.pdf
+END:VEVENT
+BEGIN:VEVENT
+UID:holiday-tw-2027-lunar-new-years-eve@aeiou.now
+DTSTAMP:20270205T000000Z
+DTSTART;VALUE=DATE:20270205
+DTEND;VALUE=DATE:20270206
+SUMMARY:除夕
+DESCRIPTION:Status: statutory\nDate status: confirmed\nSources: https://law.moj.gov.tw/LawClass/LawAll.aspx?pcode=D0020095 https://www.dgpa.gov.tw/information?uid=2&pid=12574 https://www.dgpa.gov.tw/information?uid=82&pid=12983 https://www.cwa.gov.tw/Data/astronomy/2028cal.pdf
+END:VEVENT
+BEGIN:VEVENT
+UID:holiday-tw-2027-lunar-new-year@aeiou.now
+DTSTAMP:20270206T000000Z
+DTSTART;VALUE=DATE:20270206
+DTEND;VALUE=DATE:20270209
+SUMMARY:春节
+DESCRIPTION:Status: statutory\nDate status: confirmed\nSources: https://law.moj.gov.tw/LawClass/LawAll.aspx?pcode=D0020095 https://www.dgpa.gov.tw/information?uid=2&pid=12574 https://www.dgpa.gov.tw/information?uid=82&pid=12983 https://www.cwa.gov.tw/Data/astronomy/2028cal.pdf
+END:VEVENT
+BEGIN:VEVENT
+UID:holiday-tw-2027-lunar-new-year-makeup@aeiou.now
+DTSTAMP:20270209T000000Z
+DTSTART;VALUE=DATE:20270209
+DTEND;VALUE=DATE:20270211
+SUMMARY:除夕及春节补假
+DESCRIPTION:Status: statutory\nDate status: confirmed\nSources: https://law.moj.gov.tw/LawClass/LawAll.aspx?pcode=D0020095 https://www.dgpa.gov.tw/information?uid=2&pid=12574 https://www.dgpa.gov.tw/information?uid=82&pid=12983
+END:VEVENT
+BEGIN:VEVENT
+UID:holiday-tw-2027-peace-memorial-day@aeiou.now
+DTSTAMP:20270228T000000Z
+DTSTART;VALUE=DATE:20270228
+DTEND;VALUE=DATE:20270301
+SUMMARY:和平纪念日
+DESCRIPTION:Status: statutory\nDate status: confirmed\nSources: https://law.moj.gov.tw/LawClass/LawAll.aspx?pcode=D0020095 https://www.dgpa.gov.tw/information?uid=2&pid=12574 https://www.dgpa.gov.tw/information?uid=82&pid=12983
+END:VEVENT
+BEGIN:VEVENT
+UID:holiday-tw-2027-peace-memorial-day-makeup@aeiou.now
+DTSTAMP:20270301T000000Z
+DTSTART;VALUE=DATE:20270301
+DTEND;VALUE=DATE:20270302
+SUMMARY:和平纪念日补假
+DESCRIPTION:Status: statutory\nDate status: confirmed\nSources: https://law.moj.gov.tw/LawClass/LawAll.aspx?pcode=D0020095 https://www.dgpa.gov.tw/information?uid=2&pid=12574 https://www.dgpa.gov.tw/information?uid=82&pid=12983
+END:VEVENT
+BEGIN:VEVENT
+UID:holiday-tw-2027-childrens-day@aeiou.now
+DTSTAMP:20270404T000000Z
+DTSTART;VALUE=DATE:20270404
+DTEND;VALUE=DATE:20270405
+SUMMARY:儿童节
+DESCRIPTION:Status: statutory\nDate status: confirmed\nSources: https://law.moj.gov.tw/LawClass/LawAll.aspx?pcode=D0020095 https://www.dgpa.gov.tw/information?uid=2&pid=12574 https://www.dgpa.gov.tw/information?uid=82&pid=12983
+END:VEVENT
+BEGIN:VEVENT
+UID:holiday-tw-2027-tomb-sweeping-day@aeiou.now
+DTSTAMP:20270405T000000Z
+DTSTART;VALUE=DATE:20270405
+DTEND;VALUE=DATE:20270406
+SUMMARY:清明节
+DESCRIPTION:Status: statutory\nDate status: confirmed\nSources: https://law.moj.gov.tw/LawClass/LawAll.aspx?pcode=D0020095 https://www.dgpa.gov.tw/information?uid=2&pid=12574 https://www.dgpa.gov.tw/information?uid=82&pid=12983 https://www.cwa.gov.tw/Data/astronomy/2028cal.pdf
+END:VEVENT
+BEGIN:VEVENT
+UID:holiday-tw-2027-childrens-day-makeup@aeiou.now
+DTSTAMP:20270406T000000Z
+DTSTART;VALUE=DATE:20270406
+DTEND;VALUE=DATE:20270407
+SUMMARY:儿童节补假
+DESCRIPTION:Status: statutory\nDate status: confirmed\nSources: https://law.moj.gov.tw/LawClass/LawAll.aspx?pcode=D0020095 https://www.dgpa.gov.tw/information?uid=2&pid=12574 https://www.dgpa.gov.tw/information?uid=82&pid=12983
+END:VEVENT
+BEGIN:VEVENT
+UID:holiday-tw-2027-labour-day-makeup@aeiou.now
+DTSTAMP:20270430T000000Z
+DTSTART;VALUE=DATE:20270430
+DTEND;VALUE=DATE:20270501
+SUMMARY:劳动节补假
+DESCRIPTION:Status: statutory\nDate status: confirmed\nSources: https://law.moj.gov.tw/LawClass/LawAll.aspx?pcode=D0020095 https://www.dgpa.gov.tw/information?uid=82&pid=12983
+END:VEVENT
+BEGIN:VEVENT
+UID:holiday-tw-2027-labour-day@aeiou.now
+DTSTAMP:20270501T000000Z
+DTSTART;VALUE=DATE:20270501
+DTEND;VALUE=DATE:20270502
+SUMMARY:劳动节
+DESCRIPTION:Status: statutory\nDate status: confirmed\nSources: https://law.moj.gov.tw/LawClass/LawAll.aspx?pcode=D0020095 https://www.dgpa.gov.tw/information?uid=2&pid=12574 https://www.dgpa.gov.tw/information?uid=82&pid=12983
+END:VEVENT
+BEGIN:VEVENT
+UID:holiday-tw-2027-dragon-boat-festival@aeiou.now
+DTSTAMP:20270609T000000Z
+DTSTART;VALUE=DATE:20270609
+DTEND;VALUE=DATE:20270610
+SUMMARY:端午节
+DESCRIPTION:Status: statutory\nDate status: confirmed\nSources: https://law.moj.gov.tw/LawClass/LawAll.aspx?pcode=D0020095 https://www.dgpa.gov.tw/information?uid=2&pid=12574 https://www.dgpa.gov.tw/information?uid=82&pid=12983 https://www.cwa.gov.tw/Data/astronomy/2028cal.pdf
+END:VEVENT
+BEGIN:VEVENT
+UID:holiday-tw-2027-police-day@aeiou.now
+DTSTAMP:20270615T000000Z
+DTSTART;VALUE=DATE:20270615
+DTEND;VALUE=DATE:20270616
+SUMMARY:警察节
+DESCRIPTION:Status: discretionary\nDate status: confirmed\nSources: https://law.moj.gov.tw/LawClass/LawAll.aspx?pcode=D0020095
+END:VEVENT
+BEGIN:VEVENT
+UID:holiday-tw-2027-armed-forces-day@aeiou.now
+DTSTAMP:20270903T000000Z
+DTSTART;VALUE=DATE:20270903
+DTEND;VALUE=DATE:20270904
+SUMMARY:军人节
+DESCRIPTION:Status: discretionary\nDate status: confirmed\nSources: https://law.moj.gov.tw/LawClass/LawAll.aspx?pcode=D0020095
+END:VEVENT
+BEGIN:VEVENT
+UID:holiday-tw-2027-mid-autumn-festival@aeiou.now
+DTSTAMP:20270915T000000Z
+DTSTART;VALUE=DATE:20270915
+DTEND;VALUE=DATE:20270916
+SUMMARY:中秋节
+DESCRIPTION:Status: statutory\nDate status: confirmed\nSources: https://law.moj.gov.tw/LawClass/LawAll.aspx?pcode=D0020095 https://www.dgpa.gov.tw/information?uid=2&pid=12574 https://www.dgpa.gov.tw/information?uid=82&pid=12983 https://www.cwa.gov.tw/Data/astronomy/2028cal.pdf
+END:VEVENT
+BEGIN:VEVENT
+UID:holiday-tw-2027-confucius-birthday-teachers-day@aeiou.now
+DTSTAMP:20270928T000000Z
+DTSTART;VALUE=DATE:20270928
+DTEND;VALUE=DATE:20270929
+SUMMARY:孔子诞辰纪念日／教师节
+DESCRIPTION:Status: statutory\nDate status: confirmed\nSources: https://law.moj.gov.tw/LawClass/LawAll.aspx?pcode=D0020095 https://www.dgpa.gov.tw/information?uid=2&pid=12574 https://www.dgpa.gov.tw/information?uid=82&pid=12983
+END:VEVENT
+BEGIN:VEVENT
+UID:holiday-tw-2027-national-day@aeiou.now
+DTSTAMP:20271010T000000Z
+DTSTART;VALUE=DATE:20271010
+DTEND;VALUE=DATE:20271011
+SUMMARY:国庆日
+DESCRIPTION:Status: statutory\nDate status: confirmed\nSources: https://law.moj.gov.tw/LawClass/LawAll.aspx?pcode=D0020095 https://www.dgpa.gov.tw/information?uid=2&pid=12574 https://www.dgpa.gov.tw/information?uid=82&pid=12983
+END:VEVENT
+BEGIN:VEVENT
+UID:holiday-tw-2027-national-day-makeup@aeiou.now
+DTSTAMP:20271011T000000Z
+DTSTART;VALUE=DATE:20271011
+DTEND;VALUE=DATE:20271012
+SUMMARY:国庆日补假
+DESCRIPTION:Status: statutory\nDate status: confirmed\nSources: https://law.moj.gov.tw/LawClass/LawAll.aspx?pcode=D0020095 https://www.dgpa.gov.tw/information?uid=2&pid=12574 https://www.dgpa.gov.tw/information?uid=82&pid=12983
+END:VEVENT
+BEGIN:VEVENT
+UID:holiday-tw-2027-retrocession-and-guningtou-victory-day@aeiou.now
+DTSTAMP:20271025T000000Z
+DTSTART;VALUE=DATE:20271025
+DTEND;VALUE=DATE:20271026
+SUMMARY:台湾光复暨金门古宁头大捷纪念日
+DESCRIPTION:Status: statutory\nDate status: confirmed\nSources: https://law.moj.gov.tw/LawClass/LawAll.aspx?pcode=D0020095 https://www.dgpa.gov.tw/information?uid=2&pid=12574 https://www.dgpa.gov.tw/information?uid=82&pid=12983
+END:VEVENT
+BEGIN:VEVENT
+UID:holiday-tw-2027-coast-guard-day@aeiou.now
+DTSTAMP:20271108T000000Z
+DTSTART;VALUE=DATE:20271108
+DTEND;VALUE=DATE:20271109
+SUMMARY:海巡节
+DESCRIPTION:Status: discretionary\nDate status: confirmed\nSources: https://law.moj.gov.tw/LawClass/LawAll.aspx?pcode=D0020095
+END:VEVENT
+BEGIN:VEVENT
+UID:holiday-tw-2027-constitution-day-makeup@aeiou.now
+DTSTAMP:20271224T000000Z
+DTSTART;VALUE=DATE:20271224
+DTEND;VALUE=DATE:20271225
+SUMMARY:行宪纪念日补假
+DESCRIPTION:Status: statutory\nDate status: confirmed\nSources: https://law.moj.gov.tw/LawClass/LawAll.aspx?pcode=D0020095 https://www.dgpa.gov.tw/information?uid=82&pid=12983
+END:VEVENT
+BEGIN:VEVENT
+UID:holiday-tw-2027-constitution-day@aeiou.now
+DTSTAMP:20271225T000000Z
+DTSTART;VALUE=DATE:20271225
+DTEND;VALUE=DATE:20271226
+SUMMARY:行宪纪念日
+DESCRIPTION:Status: statutory\nDate status: confirmed\nSources: https://law.moj.gov.tw/LawClass/LawAll.aspx?pcode=D0020095 https://www.dgpa.gov.tw/information?uid=2&pid=12574 https://www.dgpa.gov.tw/information?uid=82&pid=12983
+END:VEVENT
+BEGIN:VEVENT
+UID:holiday-tw-2027-founding-day-makeup@aeiou.now
+DTSTAMP:20271231T000000Z
+DTSTART;VALUE=DATE:20271231
+DTEND;VALUE=DATE:20280101
+SUMMARY:中华民国开国纪念日补假
+DESCRIPTION:Status: statutory\nDate status: confirmed\nSources: https://law.moj.gov.tw/LawClass/LawAll.aspx?pcode=D0020095 https://www.dgpa.gov.tw/information?uid=82&pid=12983
+END:VEVENT
+END:VCALENDAR
